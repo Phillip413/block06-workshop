@@ -1,0 +1,38 @@
+section {
+  background-color: lightgrey;
+  border: solid 3px blue;
+}
+
+.header-container {
+  text-align: center;
+}
+
+h1,h2 {
+  text-decoration:underline;
+}
+
+h2 {
+  background-color:honeydew;
+}
+
+h3 {
+  border: solid 2.5px black;
+  background-color: bisque;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  display: inline-block
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  border: 5px solid black;
+  padding: 5px;
+  margin: 7px;
+  float:right;
+} 
+
+ol {
+  list-style:lower-alpha;
+}
